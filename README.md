@@ -1,5 +1,5 @@
 
-![Logo](https://www.ing.unne.edu.ar/wp-content/uploads/2021/07/FACULTAD-DE-INGENIERIA-UNNE.png)
+![Logo](https://lh3.googleusercontent.com/d/1QtkFxR4JHc4qn4SqK4tqS-d8Eulg81V8)
 # _Programming III_ – Practice Repository
 
 Practice repository for the Programming III course of the Computer Science Associate Degree at UNNE, taught by Professor [José A. Fernandez](https://github.com/fernandezja).
