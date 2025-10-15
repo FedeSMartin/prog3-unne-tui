@@ -1,0 +1,62 @@
+body{
+    font-family: 'Arvo', Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+#video-background{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+nav{
+    position: relative;
+    height: 2rem;
+    text-align: right;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    padding: 1rem;
+    margin: 2rem;
+    justify-content: flex-end;
+}
+
+nav ul li{
+    margin-left: 1rem;
+    font-size: 0.7rem;
+}
+
+nav a, footer a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.viewport-header{
+    position: relative;
+    height: 80vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+h1{
+    font-family: 'Oswald','Times New Roman', Times, serif;
+    font-size: 4rem;
+}
+
+h1, p{
+    margin: 1rem;
+}
+
+footer{
+    position: relative;
+    text-align: center;
+    font-size: 0.7rem;
+}
